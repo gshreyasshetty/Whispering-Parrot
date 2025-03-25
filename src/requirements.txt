@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+audio-recorder-streamlit
+faster-whisper
+transformers
+torch
+sentencepiece
+pyaudio
+numpy
