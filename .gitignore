@@ -1,0 +1,20 @@
+# Virtual environment  
+.venv/  
+whisper-env/  
+
+# Model files  
+models/  
+*.pt  
+*.bin  
+
+# Python bytecode  
+__pycache__/  
+*.pyc  
+
+# Logs & cache  
+logs/  
+*.log  
+*.cache  
+
+# VS Code settings  
+.vscode/  
